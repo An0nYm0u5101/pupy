@@ -3,8 +3,8 @@ pefile
 pyyaml
 rsa
 netaddr
-ecdsa==0.13
-paramiko==2.0.2
+ecdsa==0.14
+paramiko==2.0.9
 https://github.com/alxchk/tinyec/archive/master.zip
 psutil
 netifaces
