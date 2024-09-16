@@ -47,3 +47,4 @@ https://github.com/alxchk/pykcp/archive/master.zip
 http_request
 flake8
 flake8-per-file-ignores
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
