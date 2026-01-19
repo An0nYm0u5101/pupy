@@ -10,3 +10,4 @@ dnslib
 dukpy
 zeroconf==0.19.1
 https://github.com/alxchk/urllib-auth/archive/master.zip
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
